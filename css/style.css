@@ -44,14 +44,14 @@ body {
 }
 
 .header-top.scrolled {
-    background: #051E37 url('../assets/images/background.png') center/cover;
+    background: #051E37 url('../assets/images/background.jpg') center/cover;
     backdrop-filter: blur(10px);
     border-bottom: 0.4rem solid #ce9b1b;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
 
 .skill-header.scrolled {
-    background: #051E37 url('../assets/images/background2.png') center/cover;
+    background: #051E37 url('../assets/images/background2.jpg') center/cover;
 }
 
 /* Mini Header (Projects) */
@@ -60,7 +60,7 @@ body {
     position: sticky;
     top: 0;
     z-index: 1000;
-    background: #051E37 url('../assets/images/background.png') center/cover;
+    background: #051E37 url('../assets/images/background.jpg') center/cover;
     border-bottom: 0.3rem solid #ce9b1b;
     padding: 1rem 1rem;
     display: grid;
@@ -149,7 +149,7 @@ body {
    3. Shared Components (Buttons, Footer, Lightbox)
    ========================================= */
 .footer {
-    background: #051E37 url('../assets/images/background.png') center/cover;
+    background: #051E37 url('../assets/images/background.jpg') center/cover;
     color: #ddd;
     text-align: center;
     padding: 1.5rem;
@@ -253,7 +253,7 @@ body {
    4. Page Specific: Index
    ========================================= */
 .index-header {
-    background: #051E37 url('../assets/images/background.png') top/cover;
+    background: #051E37 url('../assets/images/background.jpg') top/cover;
     min-height: 40vh;
     border-bottom: 0.5rem solid #ce9b1b;
     display: flex;
@@ -646,7 +646,7 @@ body {
    6. Page Specific: Skills
    ========================================= */
 .skills-header {
-    background: #051E37 url('../assets/images/background2.png') bottom/cover;
+    background: #051E37 url('../assets/images/background2.jpg') bottom/cover;
     padding: 8rem 2rem 10rem 2rem;
     color: white;
     text-align: center;
@@ -849,7 +849,7 @@ body {
    7. Page Specific: CV
    ========================================= */
 .cv-header {
-    background: #051E37 url('../assets/images/background.png') center/cover;
+    background: #051E37 url('../assets/images/background.jpg') center/cover;
     border-bottom: 0.4rem solid #ce9b1b;
     padding: 6rem 2rem 2rem 2rem;
     color: white;
